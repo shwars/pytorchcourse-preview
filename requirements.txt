@@ -3,7 +3,7 @@ Pillow
 numpy
 matplotlib
 torchsummary
-torchtext==0.7
+torchtext==0.6
 gensim
 transformers
 huggingface
