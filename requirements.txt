@@ -4,6 +4,7 @@ numpy
 matplotlib
 torchsummary
 torchtext==0.6
+torchvision
 gensim
 transformers
 huggingface
